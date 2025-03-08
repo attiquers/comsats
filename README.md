@@ -7,7 +7,8 @@ Separable equations, Exact and Non-exact DEs, Linear Eqs, Homogeneous Eqs
 Separable equations, Exact and Non-exact DEs, Linear Eqs, Homogeneous Eqs
 
 ## 📚 Machine Learning
-
+### Assignment 1 [March 28]
+Q1: Web crawler for top 100 books on wikipedia
 
 ## 📚 Parallel and Distributed Computing
 
