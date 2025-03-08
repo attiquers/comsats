@@ -11,7 +11,16 @@ Separable equations, Exact and Non-exact DEs, Linear Eqs, Homogeneous Eqs
 Q1: Web crawler for top 100 books on wikipedia
 
 ## 📚 Parallel and Distributed Computing
+Lab Assignment 1:
+1. Create a program with work-shasing loup
 
+2. Modity above program which uses tristprate for cant variable.
+
+3. Parallel matrix multiplication with openmp multiplication resull
+
+4. Modity above program that prints & stde-by-side.
+
+5. Sequentia Matrix multiplication for comparison
 
 ## 📚 Professional Practises
 ### Assignment 1 [March 14 | Hard copy]
