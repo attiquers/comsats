@@ -18,7 +18,7 @@ Q1: How to establish a software LLC from scratch?
 
 Q2: How to export or import something? Provide all steps and estimate the budget (e.g., cost to register with relevant organizations).
 
-Note: list all government organizations involved in these two processes.
+Note list all government organizations involved in these two processes.
 
 
 ## 📚 Web Technologies
